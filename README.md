@@ -1,5 +1,5 @@
-# 💫 About Me:
-CODE
+# 👑 About Me:
+i code
 
 
 # 💻 Tech Stack:
