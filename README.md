@@ -3,7 +3,6 @@
   </div>
   
 <div align="center">
-  <br/>
   <h1 style="font-size: 48px; font-weight: bold;">SEEKER</h1>
   <br/>
 </div>
